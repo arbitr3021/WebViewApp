@@ -7,7 +7,7 @@
 WebViewApp é uma aplicação mobile 
 
 ## Layout mobile
-![Mobile 1](url da imagem1) ![Mobile 2](url da imagem1))
+![Mobile 1](https://github.com/jhonatanbss/WebViewApp/blob/main/tela1.png) ![Mobile 2](url da imagem1))
 
 # Tecnologias utilizadas
 ## Back end
